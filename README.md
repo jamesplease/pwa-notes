@@ -22,8 +22,8 @@ This can be seen as a good thing; I am testing the worst-case scenario.
 
 More specifically:
 
-**Desktop**:  macOS 10.13.4, Google Chrome Canary
-**Mobile**: iOS 11.3.0, Safari
+- **Desktop**:  macOS 10.13.4, Google Chrome Canary  
+- **Mobile**: iOS 11.3.0, Safari
 
 ## Notes
 
