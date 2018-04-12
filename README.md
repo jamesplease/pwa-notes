@@ -5,12 +5,11 @@
 Progressive Web Apps are applications that are built with web technologies that
 appear to the user to be native.
 
-However, simply installing a web application to your computer or phone is
-typically not enough for it to feel native. There are important differences
-between native apps and web apps that users may notice, so it's important
-to keep those in mind when developing an app.
+There are differences between native applications and web apps that are
+important to keep in mind when making PWAs to help with the illusion
+that the app is native.
 
-These notes list some of those things.
+These notes list some of those differences and things to be mindful of.
 
 > Heads up! PWAs are a rapidly evolving technology. This information may be outdated
 > if you are reading this many months or years after the last update.
@@ -117,6 +116,10 @@ on Medium by Maximiliano Firtman.
   the app will be shut down and reloaded.
 
 - There is no background processing in PWAs.
+
+- There is no API for knowing when the keyboard is open, so strange scrolling
+  situations can occur. To observe this, open the Twitter PWA and click the button
+  to compose a new tweet. Then, scroll down.
 
 ## Things to Test
 
