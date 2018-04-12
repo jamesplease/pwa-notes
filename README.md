@@ -7,8 +7,8 @@ appear to the user to be native.
 
 However, simply installing a web application to your computer or phone is
 typically not enough for it to feel native. There are important differences
-between native apps and web apps that users will notice, and they need to be
-kept in mind.
+between native apps and web apps that users may notice, so it's important
+to keep those in mind when developing an app.
 
 These notes list some of those things.
 
